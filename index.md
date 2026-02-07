@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="jaKUyzlVbMfrbbuLDHjRlE0-AsOfMhhY4GjiixNRF-k" />
 #Agolian 
 Agolian(애골어) is a constructed language based on phonological reduction, introduced in 2025, designed to explore the language processing of humans and artificial intelligence.
 
