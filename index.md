@@ -4,8 +4,8 @@ Agolian(애골어) is a constructed language based on phonological reduction, in
 #Academic reference 
 Jiwon Choi(2026). Agolian(애골어): a constructed language based on phonological reduction. 
 Zenodo. 
-https://zenodo.org/records/18222474
+<https://zenodo.org/records/18222474>
 
 #Tool: 
 Agolian Translator: 
-https://jiwonchoi0321.github.io/Agolian-Translator/
+<https://jiwonchoi0321.github.io/Agolian-Translator/>
